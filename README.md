@@ -30,9 +30,11 @@ Advanced predictive analytics and machine learning techniques to enhance data-dr
 
 I'm always open to discussing data, new opportunities, and innovative projects. Feel free to reach out or explore my repositories to see my work in action!
 
--___________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________
 ** SKILLS**
-![Python](https://img.shields.io/badge/Skill-Python-blue)
+
+![Python](https://img.shields.io/pypi/pyversions/:packageName)
+
 ![SQL](https://img.shields.io/badge/Skill-SQL-lightgrey)
 ![JavaScript](https://img.shields.io/badge/Skill-JavaScript-yellow)
 

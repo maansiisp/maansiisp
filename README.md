@@ -32,10 +32,7 @@ I'm always open to discussing data, new opportunities, and innovative projects. 
 
 _________________________________________________________________________________________________________________________________________________________
 **SKILLS**
-
-<img src= "5a62984c-4a53-438c-9194-8cde564fc7c3.jpg"  <img src= "1deff501-1a9f-47a4-b8ee-962dc4d65389.jpg"
-alt="python logo"                                      alt="python logo"
-width="70"/>                                           width="70"/>
+<img src= "5a62984c-4a53-438c-9194-8cde564fc7c3.jpg" alt="python logo" width="70"/><img src= "1deff501-1a9f-47a4-b8ee-962dc4d65389.jpg" alt="python logo" width="70"/>                                           
 
 
 <!---

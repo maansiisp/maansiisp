@@ -30,7 +30,11 @@ Advanced predictive analytics and machine learning techniques to enhance data-dr
 
 I'm always open to discussing data, new opportunities, and innovative projects. Feel free to reach out or explore my repositories to see my work in action!
 
-
+-___________________________________________________________________________________________________________________________________________________________________
+** SKILLS**
+![Python](https://img.shields.io/badge/Skill-Python-blue)
+![SQL](https://img.shields.io/badge/Skill-SQL-lightgrey)
+![JavaScript](https://img.shields.io/badge/Skill-JavaScript-yellow)
 
 <!---
 maansiisp/maansiisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

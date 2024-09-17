@@ -31,7 +31,7 @@ Advanced predictive analytics and machine learning techniques to enhance data-dr
 I'm always open to discussing data, new opportunities, and innovative projects. Feel free to reach out or explore my repositories to see my work in action!
 
 _________________________________________________________________________________________________________________________________________________________
-** SKILLS**
+**SKILLS**
 
 <img src= "5a62984c-4a53-438c-9194-8cde564fc7c3.jpg"
 alt="python logo"

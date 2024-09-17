@@ -33,8 +33,9 @@ I'm always open to discussing data, new opportunities, and innovative projects. 
 _________________________________________________________________________________________________________________________________________________________
 ** SKILLS**
 
-![python](5a62984c-4a53-438c-9194-8cde564fc7c3.jpg)
- 
+<img src= "5a62984c-4a53-438c-9194-8cde564fc7c3.jpg"
+alt="python logo"
+width="200"/>
 <!---
 maansiisp/maansiisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

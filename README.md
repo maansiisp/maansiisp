@@ -1,3 +1,6 @@
+![Analyst](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J6YjJvY3BqM3g0dzVxbTM0OHRsZGJmbXMwc3R5enFrd2d2YTgzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif)
+ 
+
  **👋 Hello I’m mansi!**
 
 I'm a passionate Data Analyst with a knack for turning data into actionable insights. With expertise in SQL, Python, Power BI, and Tableau, I enjoy diving deep into datasets to uncover patterns and trends that drive business decisions.

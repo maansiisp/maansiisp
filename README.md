@@ -1,4 +1,4 @@
-- 👋 **Hello I’m mansi!**
+ **👋 Hello I’m mansi!**
 
 I'm a passionate Data Analyst with a knack for turning data into actionable insights. With expertise in SQL, Python, Power BI, and Tableau, I enjoy diving deep into datasets to uncover patterns and trends that drive business decisions.
 

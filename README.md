@@ -33,7 +33,7 @@ I'm always open to discussing data, new opportunities, and innovative projects. 
 _________________________________________________________________________________________________________________________________________________________
 ** SKILLS**
 
-![Python](https://img.shields.io/pypi/pyversions/:packageName)
+![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-3d-illustration%2Fpython-5562371&psig=AOvVaw2XQpTtm7T_LSB34Rxw-h3m&ust=1726650476974000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC38b7QyYgDFQAAAAAdAAAAABAR)
 
 ![SQL](https://img.shields.io/badge/Skill-SQL-lightgrey)
 ![JavaScript](https://img.shields.io/badge/Skill-JavaScript-yellow)

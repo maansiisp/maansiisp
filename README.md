@@ -33,7 +33,7 @@ I'm always open to discussing data, new opportunities, and innovative projects. 
 _________________________________________________________________________________________________________________________________________________________
 **SKILLS**
 
-<img src= "5a62984c-4a53-438c-9194-8cde564fc7c3.jpg" alt="python logo" width="70"/><img src= "e8e1760f-806d-4805-b9d0-f0a175146304.jpg" alt="sql logo" width="77"/><img src= "1deff501-1a9f-47a4-b8ee-962dc4d65389.jpg" alt="tableau logo" width="66"/><img src= "288a6c56-0018-40d5-851d-a3d788df93d8.jpg" alt="power bi logo" width="80"/><img src= "40227094-c670-4576-9fa5-01e2c01f8ff2.jpg" alt="excel logo" width="83"/><img src= "3a7c0f3f-1baf-4646-afa1-69451aff6d19.jpg" alt="word logo" width="72"/><img src= "5b9aa339-3cf1-46d4-bb94-1be87b5a6437.jpg" alt="power point logo" width="72"/>                                     
+<img src= "5a62984c-4a53-438c-9194-8cde564fc7c3.jpg" alt="python logo" width="70"/>  <img src= "e8e1760f-806d-4805-b9d0-f0a175146304.jpg" alt="sql logo" width="77"/>  <img src= "1deff501-1a9f-47a4-b8ee-962dc4d65389.jpg" alt="tableau logo" width="66"/>  <img src= "288a6c56-0018-40d5-851d-a3d788df93d8.jpg" alt="power bi logo" width="80"/>  <img src= "40227094-c670-4576-9fa5-01e2c01f8ff2.jpg" alt="excel logo" width="83"/>  <img src= "3a7c0f3f-1baf-4646-afa1-69451aff6d19.jpg" alt="word logo" width="72"/>  <img src= "5b9aa339-3cf1-46d4-bb94-1be87b5a6437.jpg" alt="power point logo" width="72"/>                                     
 
 
 <!---

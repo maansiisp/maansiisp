@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/GP7rrkL/ezgif-7-6bba4bb8ee.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/5W14Wdt/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e.gif)](https://rishavchanda.io)
 
  ![](https://komarev.com/ghpvc/?username=maansiisp&label=PROFILE+VIEWS)
  
